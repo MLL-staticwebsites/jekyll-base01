@@ -6,3 +6,5 @@ fields:
 - type: file
   label: file upload field test
   name: file_upload_field_test
+pages:
+- test-page01.md
