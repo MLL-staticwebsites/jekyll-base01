@@ -1,0 +1,8 @@
+---
+label: test-01-fileupload
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  label: file upload field test
+  name: file_upload_field_test
