@@ -7,4 +7,5 @@ fields:
   label: file upload field test
   name: file_upload_field_test
 pages:
+- _posts/test-post1.md
 - test-page01.md
